@@ -5,7 +5,7 @@
     "main": "RNPhotoEditor.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/prscX/react-native-photo-editor.git"
+        "url": "https://github.com/cloudcompli/react-native-photo-editor.git"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
